@@ -1,0 +1,16 @@
+com/example/f1prediction/PredictionView$DriverPrediction.class
+com/example/f1prediction/model/predict/RaceInfoDetails.class
+com/example/f1prediction/F1App.class
+com/example/f1prediction/schedule/PredictService.class
+com/example/f1prediction/importer/F1DataImporter.class
+com/example/f1prediction/model/predict/RaceInfo.class
+com/example/f1prediction/model/csv/F1DataRecord.class
+com/example/f1prediction/model/csv/F1DataRecord$F1DataRecordBuilder.class
+com/example/f1prediction/trainer/TrainerService.class
+com/example/f1prediction/model/training/PredictionFeatures.class
+com/example/f1prediction/model/predict/DriverStats.class
+com/example/f1prediction/converter/DataRecordToIssueFeatureConverter.class
+com/example/f1prediction/model/training/PredictionFeatures$PredictionFeaturesBuilder.class
+com/example/f1prediction/converter/RecordWithCumulative.class
+com/example/f1prediction/PredictionView.class
+com/example/f1prediction/schedule/RaceSchedule.class
